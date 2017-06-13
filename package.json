@@ -1,5 +1,5 @@
 {
-  "name": "react",
+  "name": "react-tutorial",
   "version": "1.0.0",
   "description": "",
   "main": "demo.js",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/nktasingh/react/issues"
   },
-  "homepage": "https://github.com/nktasingh/react#readme"
+  "homepage": "https://github.com/nktasingh/react#readme",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
 }
